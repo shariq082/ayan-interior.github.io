@@ -110,8 +110,7 @@ background-position-x: -1000px;
     font-size: 2rem;
     color:black;
 }
-.owl-nav .owl-prev .owl-nav-prev{ margin-left: 80%;}
-.owl-nav .owl-next .owl-nav-next{margin-right: 80%;}
+
 .owl-theme .owl-nav [class*='owl-']:hover{
     background: transparent;
     color:gray;
