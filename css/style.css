@@ -170,7 +170,7 @@ padding:0; height: 40px!important;}
 /*-------------------footer-------------------*/
 .footer{background: #37517e;}
 .main{background: rgb(13, 174, 214); color: white; padding: 12px 2px; margin-top: 0; }	
-input{width: 80%; padding: 0px 3px; margin-top: 25px; margin-right: 0px;}
+input{width: 80%; padding: 10px 3px; margin-top: 25px; margin-right: 0px;}
 button{width: 20%; height:55px;  background: #37517e; color: white; 
 border: none; margin-left: -4px; padding:10px 0; margin-top: 5px;}
 h2{color: white; text-transform: capitalize;}
