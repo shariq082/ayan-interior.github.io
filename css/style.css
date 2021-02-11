@@ -195,6 +195,7 @@ a{text-transform: capitalize; color: white;}
 .a4 .ab{background: #980f7b;}
 .a4 .ac{background: #f52807;}
 .a4 .ad{background: #69cfd4;}
+.a4 .aa:hover, .a4 .ab:hover, .a4 .ac:hover, .a4 .ad:hover{color:white;}
 .a4 h2{margin-bottom: 10px;}
 .last{background:rgb(13, 174, 214);}
 .last .container .copyright{color:white!important; display: flex; justify-content: space-between;
